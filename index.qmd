@@ -364,3 +364,9 @@ bind_rows(
 ```
 
 # Appendix
+
+<https://gigibrunel.github.io/W05-Reflection-on-Model-Evaluation-Ch09-/>
+
+**Repository:**
+
+<https://github.com/gigibrunel/W05-Reflection-on-Model-Evaluation-Ch09->
